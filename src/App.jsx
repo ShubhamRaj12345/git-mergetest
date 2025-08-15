@@ -9,7 +9,7 @@ function App() {
         <h1>Enter Your Details</h1>
        <div className='io'>
 
-    <form>
+    <form action="aasgdjf>
      <input type='text' placeholder="Enter Name"name="text"></input>
      <br></br>
       <input type='password' placeholder="Enter Password"name="text"></input>
