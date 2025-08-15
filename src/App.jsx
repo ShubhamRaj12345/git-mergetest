@@ -14,6 +14,7 @@ function App() {
      <input type='text' placeholder="Enter Name"name="text"></input>
      <br></br>
       <input type='password' placeholder="Enter Password"name="text"></input>
+      <input type="email" placeholder='enter you email' name="email" />
     <br></br>
 
     <button>Submit</button>
