@@ -1,9 +1,8 @@
-import { useState } from 'react'
+
 import './App.css'
 import './style.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -14,12 +13,16 @@ function App() {
      <input type='text' placeholder="Enter Name"name="text"></input>
      <br></br>
       <input type='password' placeholder="Enter Password"name="text"></input>
-      <input type="email" placeholder='enter you email' name="email" />
+     
     <br></br>
 
     <button>Submit</button>
 <br></br>
     </form>
+        <div>
+          <p> as;dlkfjasdofsdjl;sadkjfasd;l  
+          </p>
+        </div>
 
        </div>
     </>
