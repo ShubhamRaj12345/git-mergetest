@@ -13,7 +13,7 @@ function App() {
      <input type='text' placeholder="Enter Name"name="text"></input>
      <br></br>
       <input type='password' placeholder="Enter Password"name="text"></input>
-     
+     <input type="email"placeholder='Enter email'/>
     <br></br>
 
     <button>Submit</button>
@@ -23,6 +23,7 @@ function App() {
           <p> as;dlkfjasdofsdjl;sadkjfasd;l  
           </p>
         </div>
+
 
        </div>
     </>
